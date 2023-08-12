@@ -1,4 +1,4 @@
-# Q_O__exe
+# Q_O__exe v0.4-p2 (Второй патч)
 ## голосовой ассистент Q_O
 ### Windows 8-11 (x64) https://drive.google.com/file/d/1ogiOpWIJACggK4_Z5gCK3C6CoP1NB-N7/view?usp=sharing
 # Функции:
